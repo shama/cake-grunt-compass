@@ -1,0 +1,9 @@
+/**
+ * I put all my project specific vars and mixins here
+ */
+
+$color-example: #ffcc00;
+
+@mixin example {
+	color: $color-example;
+}

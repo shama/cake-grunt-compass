@@ -1,0 +1,3 @@
+$(function() {
+	/** Example Project JS **/
+});
